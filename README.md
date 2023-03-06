@@ -1,10 +1,1 @@
-#  SSI Standardisation Overview
-___
-
-The graphical overview of SSI-related standards can be found [here](https://maaikevanleuken.github.io/SSI-Standardisation-Overview/).
-
-For an accompanying guide and more background information, see the [documentation](https://maaikevanleuken.github.io/SSI-Standardisation-Overview/mscvLeuken-overview.html).
-
-___
-
-You can raise issues or contribute by forking this repository.
+See the [TNO SSI Lab repo](https://github.com/tno-ssi-lab/standardisation-overview/blob/main/README.md).
